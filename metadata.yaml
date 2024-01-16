@@ -1,5 +1,8 @@
 _repo: Modern-cookery-for-private-families_72482
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72482-h/images/cover.jpg
 creator:
   author:
     agent_name: Acton, Eliza
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56701
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Acton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72482#Modern-cookery-for-private-families
 gutenberg_issued: '2023-12-23'
 gutenberg_type: Text
 identifiers:
